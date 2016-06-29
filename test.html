@@ -2,6 +2,8 @@
 <body>
 <input type="text" id="searchContent">
 <button id="searchButton">Search</button>
+<table border="1" id="searchResult">
+</table>
 <script>
     if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
         xmlhttp = new XMLHttpRequest();
@@ -23,22 +25,16 @@
     }
 
     var searchContent = document.getElementById('searchContent');
+    var searchResult = document.getElementById('searchResult');
     document.getElementById('searchButton').onclick = function() {
         var content = searchContent.value;
-        document.write("<table border='1'>");
+        var result = '';
         for (var i = 0; i < list.length; i++) {
             if (list[i].ARTIST.indexOf(content) > -1) {
-                var x = xmlDoc.getElementsByTagName("CD");
-                for (i = 0; i < x.length; i++) {
-                    document.write("<tr><td>");
-                    document.write(list[i].ARTIST);
-                    document.write("</td><td>");
-                    document.write(list[i].TITLE);
-                    document.write("</td></tr>");
-                }
+                result += "<tr><td>" + list[i].ARTIST + "</td><td>" + list[i].TITLE + "</td></tr>";
             }
         }
-        document.write("</table>");
+        searchResult.innerHTML = result;
     };
 </script>
 </body>
