@@ -18,8 +18,8 @@
     var x = xmlDoc.getElementsByTagName("CD");
     for (i = 0; i < x.length; i++) {
         var t = {
-            ARTIST: x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue,
-            TITLE: x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue
+            ARTIST: x[i].getElementsByTagName("ARTIST")[0].textContent,
+            TITLE: x[i].getElementsByTagName("TITLE")[0].textContent
         };
         list.push(t);
     }
