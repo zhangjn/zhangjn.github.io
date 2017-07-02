@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <input type="number" id="maxValue" />
+    <button id="btnRandom">随机</button>
+    <br />
+    <span id="result"></span>
+
+    <script>
+        var btnRandom = document.getElementById('btnRandom'),
+            maxValue = document.getElementById('maxValue'),
+            result = document.getElementById('result');
+
+        btnRandom.onclick = function () {
+            var max = parseInt(maxValue.value);
+            if (isNaN(max) || max < 1) {
+                return;
+            }
+            result.innerText = Math.ceil(Math.random() * max);
+        };
+    </script>
+</body>
+</html>
