@@ -20,6 +20,7 @@
         btnRandom.onclick = function () {
             var max = parseInt(maxValue.value);
             if (isNaN(max) || max < 1) {
+                result.innerText = '输入错误~~ 需要大于0的整数';
                 return;
             }
             result.innerText = Math.ceil(Math.random() * max);
