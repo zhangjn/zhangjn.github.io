@@ -1,1 +1,11 @@
-1|V0.5.1
+{
+    "Version": "V1.1.6",
+    "LastVersion": "V1.1.5",
+    "DownloadUrl": "https://f.wu.ren/tuanzi/V1.1.6.zip",
+    "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.1.6_Full.zip",
+    "ArticleUrl": "https://www.bilibili.com/read/cv18143485",
+    "NeedUpdate": true,
+    "AutoUpdate": true,
+    "ReplaceDownloadUrl": false,
+    "ChunkCount": 2
+}
