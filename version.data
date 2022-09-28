@@ -1,11 +1,10 @@
 {
-    "Version": "V1.2.1",
-    "LastVersion": "V1.2.0",
-    "DownloadUrl": "https://f.wu.ren/tuanzi/V1.2.1.zip",
-    "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.2.1_Full.zip",
-    "ArticleUrl": "https://www.bilibili.com/read/cv18534772",
+    "Version": "V1.2.2",
+    "LastVersion": "V1.2.1",
+    "DownloadUrl": "https://f.wu.ren/tuanzi/V1.2.2.zip",
+    "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.2.2_Full.zip",
+    "ArticleUrl": "https://www.bilibili.com/read/cv18832876",
     "NeedUpdate": true,
     "AutoUpdate": true,
-    "ReplaceDownloadUrl": false,
     "ChunkCount": 2
 }
