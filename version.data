@@ -1,9 +1,9 @@
 {
-    "Version": "V1.2.3",
-    "LastVersion": "V1.2.2",
-    "DownloadUrl": "https://f.wu.ren/tuanzi/V1.2.3.7z",
-    "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.2.3_Full.zip",
-    "ArticleUrl": "https://www.bilibili.com/read/cv18859653",
+    "Version": "V1.2.4",
+    "LastVersion": "V1.2.3",
+    "DownloadUrl": "https://f.wu.ren/tuanzi/V1.2.4.7z",
+    "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.2.4_Full.7z",
+    "ArticleUrl": "https://www.bilibili.com/read/cv19090011",
     "NeedUpdate": true,
     "AutoUpdate": true,
     "ChunkCount": 2
