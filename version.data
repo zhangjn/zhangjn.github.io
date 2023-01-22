@@ -5,7 +5,7 @@
     "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.3.9_Full.7z",
     "ArticleUrl": "https://www.bilibili.com/read/cv21323760",
     "NeedUpdate": true,
-    "AutoUpdate": true,
-    "NewAutoUpdate": true,
+    "AutoUpdate": false,
+    "NewAutoUpdate": false,
     "ChunkCount": 1
 }
