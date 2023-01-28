@@ -6,6 +6,6 @@
     "ArticleUrl": "https://www.bilibili.com/read/cv21431488",
     "NeedUpdate": true,
     "AutoUpdate": false,
-    "NewAutoUpdate": false,
+    "NewAutoUpdate": true,
     "ChunkCount": 1
 }
