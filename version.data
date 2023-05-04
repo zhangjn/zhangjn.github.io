@@ -1,11 +1,11 @@
 {
     "Version": "V1.4.9",
     "LastVersion": "V1.4.8",
-    "DownloadUrl": "https://f.wu.ren/tuanzi/V1.4.9.7z",
-    "FullDownloadUrl": "https://f.wu.ren/tuanzi/V1.4.9_Full.7z",
+    "DownloadUrl": "",
+    "FullDownloadUrl": "",
     "ArticleUrl": "https://www.bilibili.com/read/cv23067390",
     "NeedUpdate": true,
     "AutoUpdate": false,
-    "NewAutoUpdate": true,
+    "NewAutoUpdate": false,
     "ChunkCount": 1
 }
