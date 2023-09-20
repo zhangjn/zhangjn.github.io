@@ -1,11 +1,10 @@
 {
-    "Version": "V1.6.7",
-    "LastVersion": "",
-    "DownloadUrl": "",
-    "FullDownloadUrl": "",
-    "ArticleUrl": "https://www.bilibili.com/read/cv26406634",
-    "NeedUpdate": true,
-    "AutoUpdate": false,
-    "NewAutoUpdate": false,
+    "Version": "V1.6.8",
+    "LastVersion": "V1.6.7",
+    "DownloadUrl": "https://hdt.akspeedy.com/V1.6.8.7z",
+    "FullDownloadUrl": "https://hdt.akspeedy.com/V1.6.8_Full.7z",
+    "ArticleUrl": "https://www.bilibili.com/read/cv26624730/",
+    "MD5": "",
+    "NewAutoUpdate": true,
     "ChunkCount": 1
 }
