@@ -1,11 +1,11 @@
 {
-    "Version": "V2.2.1",
-    "LastVersion": "V2.2.0",
-    "DownloadUrl": "https://hdt.akspeedy.com/V2.2.1.7z",
-    "FullDownloadUrl": "https://hdt.akspeedy.com/V2.2.1_Full.7z",
-    "ArticleUrl": "https://www.bilibili.com/read/cv41391321/",
-    "MD5": "9eda8f629c4c865b6c36fb80d51a3fb7",
-    "FullMD5": "bc47886057d715503bb53542ffa5be4f",
+    "Version": "V2.2.2",
+    "LastVersion": "V2.2.1",
+    "DownloadUrl": "https://hdt.akspeedy.com/V2.2.2.7z",
+    "FullDownloadUrl": "https://hdt.akspeedy.com/V2.2.2_Full.7z",
+    "ArticleUrl": "https://www.bilibili.com/read/cv41509945/",
+    "MD5": "f04d6747265ea9d4fb2a8395f88d19b7",
+    "FullMD5": "16f2baa8c268462fe924017cd0ee2fd6",
     "NewAutoUpdate": true,
     "ChunkCount": 1
 }
